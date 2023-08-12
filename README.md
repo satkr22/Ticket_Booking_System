@@ -1,5 +1,5 @@
 # Ticket_Booking_System
-This is the Ticket_Booking_System developed by Satyam Kumar and his team as a college project of first year.
+This is the Ticket_Booking_System developed by Satyam Kumar as a college project in the first year.
 
 To compile the codes use the following command:
 
